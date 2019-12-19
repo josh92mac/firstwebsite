@@ -1,0 +1,22 @@
+h1 {
+  color: black;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  text-transform: uppercase;
+  text-align: center;
+}
+
+body {
+}
+
+img {
+  width: 35%;
+  height: auto;
+  position: absolute;
+  left: 10px;
+  margin-left: 20%;
+  border: black 3px solid;
+}
+
+div.row {
+  color: red;
+}
